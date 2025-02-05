@@ -36,8 +36,8 @@ The **Text-to-ER Diagram Generator** is an AI-powered tool that converts natural
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/vedant713/text-to-er-diagram.git
-cd text-to-er-diagram
+git clone https://github.com/vedant713/Text-to-ER-AI-Powered-ER-Diagram-Generator.git
+cd Text-to-ER-AI-Powered-ER-Diagram-Generator
 ```
 
 ### **2️⃣ Install Dependencies**
