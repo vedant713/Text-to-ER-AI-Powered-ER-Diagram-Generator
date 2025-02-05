@@ -96,16 +96,6 @@ python main.py input.txt -o output
 
 ---
 
-## **📷 Sample Output**
-
-**Input:**  
-```
-A hotel has many rooms. A customer makes bookings.
-```
-
-
----
-
 ## **🤝 Contributing**
 Contributions are welcome! If you’d like to improve the project, **submit a pull request** or **open an issue**.
 
