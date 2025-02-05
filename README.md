@@ -1,6 +1,9 @@
 # **📌 Text-to-ER Diagram Generator**
 
-![ER Diagram Generator](test.png)
+![image](https://github.com/user-attachments/assets/c7fc4fee-e82d-4792-973c-2915302ee46f)
+![image](https://github.com/user-attachments/assets/73a7ec6c-5ebe-4d1f-bde1-2fe8b8ef23dc)
+
+
 
 ## **🚀 Overview**
 The **Text-to-ER Diagram Generator** is an AI-powered tool that converts natural language descriptions into **Entity-Relationship (ER) diagrams**. It provides a seamless user experience with a **Streamlit-based UI**, allowing users to visualize and export ER diagrams in multiple formats such as **PNG, PPTX, and DOT**.
@@ -100,8 +103,6 @@ python main.py input.txt -o output
 A hotel has many rooms. A customer makes bookings.
 ```
 
-**Output (ER Diagram Preview):**  
-![Sample Diagram](test.png)
 
 ---
 
